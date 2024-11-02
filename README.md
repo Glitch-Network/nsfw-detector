@@ -1,2 +1,2 @@
 # nsfw-detector
-A basic NSFW content detector
+A small NSFW content detector 
